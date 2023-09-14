@@ -1,5 +1,6 @@
 
-#Write a Ruby program with 3 hashes that combine similar keys and compute their values' GWA. If done then change the values with the result average.
+#Write a Ruby program with 3 hashes that combine similar keys and compute their values' GWA.
+# If done then change the values with the result average.
 p "Students' Average in each subjects"
 puts "\n"
 p "Angel={math:90, english:85, science:85}"
