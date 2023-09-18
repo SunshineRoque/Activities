@@ -1,4 +1,4 @@
-#Determine Odd and Even Numbers using Class Method
+#Determine Odd and Even Numbers using Class Method.
 
 class OddEven
   def self.odd_even(num)

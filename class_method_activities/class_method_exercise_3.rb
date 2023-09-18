@@ -1,8 +1,4 @@
-
-
-
-
-
+# Letter Grade using Class Methods.
 
 class LetterGrade
 
